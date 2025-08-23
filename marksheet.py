@@ -31,3 +31,4 @@ while(1):
         break
     else:
         print("Invalid option")
+        break
